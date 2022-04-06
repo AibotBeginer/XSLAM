@@ -26,7 +26,7 @@ XSLAM is an open source C++ demo for learn vision slam and lidar slam. Through o
 ### 1.2  <font color='green'>Download LTSLAM source:</font>
 
 ```shell
-git clone https://github.com/quanduyong/LTSLAM.git
+git clone https://github.com/AibotBeginer/XSLAM.git
 ```
 
 ## 2 Install dependency
@@ -155,7 +155,7 @@ git clone https://github.com/quanduyong/LTSLAM.git
 ## 3  工程编译
 
 ```shell
-cd LTSLAM
+cd XSLAM
 mkdir build
 cd build 
 cmake ..
