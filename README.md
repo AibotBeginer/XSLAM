@@ -195,6 +195,7 @@ email ： quandy2020@126.com
 * Ze
 * Minghao HU
 * onwaying
+* BigBridgeRobot
 
 ![github_gxz](./github_gxz.png)
 
